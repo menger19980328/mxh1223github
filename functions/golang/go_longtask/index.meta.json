@@ -1,0 +1,16 @@
+{
+  "apiID": "package_fe96fb__c__function_aadhc4kctbudw",
+  "apiName": "go_longtask",
+  "label": {
+    "zh_CN": "go-longtask",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
